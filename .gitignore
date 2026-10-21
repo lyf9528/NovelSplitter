@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 测试临时文件
+_test_tmp/
+
+# IDE
+.idea/
+.vscode/
